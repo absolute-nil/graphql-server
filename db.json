@@ -1,16 +1,73 @@
 {
-    "users": [
-        {"id":"1", "firstName":"Nikhil","lastName":"Sharma", "age":30, "companyId": "001"},
-        {"id":"2", "firstName": "Esha","lastName":"Vats", "age": 20 , "companyId": "001"},
-        {"id":"3", "firstName": "Darshan","lastName":"satra", "age": 30 , "companyId": "002"},
-        {"id":"4", "firstName": "Chris","lastName":"Martin", "age": 40, "companyId" :"003"},
-        {"id":"5", "firstName": "Charles","lastName":"Leclre", "age": 25,"companyId":"004" },
-        {"id":"6", "firstName": "Lewis","lastName":"Hamilton", "age": 35, "companyId":"003" }
-    ],
-    "companies": [
-        {"id":"001", "name":"facebook", "description":"social network" },
-        {"id":"002", "name":"google", "description":"search engine" },
-        {"id":"003", "name":"microsoft", "description":"windows" },
-        {"id":"004", "name":"amazon", "description":"e-commerce" }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Nikhil",
+      "lastName": "Sharma",
+      "age": 30,
+      "companyId": "001"
+    },
+    {
+      "id": "2",
+      "firstName": "Esha",
+      "lastName": "Vats",
+      "age": 20,
+      "companyId": "001"
+    },
+    {
+      "id": "3",
+      "firstName": "Darshan",
+      "lastName": "satra",
+      "age": 30,
+      "companyId": "002"
+    },
+    {
+      "id": "4",
+      "firstName": "Chris",
+      "lastName": "Martin",
+      "age": 40,
+      "companyId": "003"
+    },
+    {
+      "id": "5",
+      "firstName": "Charles",
+      "lastName": "Leclre",
+      "age": 25,
+      "companyId": "004"
+    },
+    {
+      "id": "6",
+      "firstName": "Lewis",
+      "lastName": "Hamilton",
+      "age": 35,
+      "companyId": "003"
+    },
+    {
+      "firstName": "Sheldon",
+      "age": 40,
+      "id": "3VNaufu"
+    }
+  ],
+  "companies": [
+    {
+      "id": "001",
+      "name": "facebook",
+      "description": "social network"
+    },
+    {
+      "id": "002",
+      "name": "google",
+      "description": "search engine"
+    },
+    {
+      "id": "003",
+      "name": "microsoft",
+      "description": "windows"
+    },
+    {
+      "id": "004",
+      "name": "amazon",
+      "description": "e-commerce"
+    }
+  ]
 }
